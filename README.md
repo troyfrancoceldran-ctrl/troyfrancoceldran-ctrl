@@ -1,16 +1,16 @@
-## Hi there 👋
+# Troy Franco Celdran
+BS Electrical Engineering student at MSU-IIT, Iligan City, Philippines (expected July 2027).
+I'm building estimation and control for energy systems: battery state estimation, microgrid controllers, and the embedded hardware to test them.
 
-<!--
-**troyfrancoceldran-ctrl/troyfrancoceldran-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pinned projects
+- **[Autonomous-lunar-power-grid](https://github.com/troyfrancoceldran-ctrl/Autonomous-lunar-power-grid)**: 60-day lunar outpost power simulation, co-developed with Claude (per-step authorship in PROGRESS.md). I wrote the physics and controller modules and the EKF algorithm. The controller ran on an ESP32 in hardware-in-the-loop (1,440 of 1,440 ticks identical to the Python model). Running the EKF on the ESP32 is future work.
+- **[numerical-methods-python](https://github.com/troyfrancoceldran-ctrl/numerical-methods-python)**: root-finders and linear/nonlinear solvers, validated and analyzed against SciPy and NumPy with 36 pytest tests and 5 notebooks. Scaffold generated with Claude; disclosed in the README.
 
-Here are some ideas to get you started:
+## In progress
+- Undergraduate thesis: physics-informed neural network (PINN) for battery SOC/SOH estimation. No results yet.
+- Edge AI quadcopter stack (ESP32 + MAX78000): in development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI use
+I work with Claude as a pair programmer. Each repo says what I wrote and what Claude wrote.
+
+Contact: cityoftroyt@gmail.com | [LinkedIn](https://www.linkedin.com/in/troy-franco-celdran-aa614838a)
