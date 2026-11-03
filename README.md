@@ -1,5 +1,5 @@
 # Troy Franco Celdran
-BS Electrical Engineering student at MSU-IIT, Iligan City, Philippines (expected July 2027).
+BS Electrical Engineering student at Philippines.
 I'm building estimation and control for energy systems: battery state estimation, microgrid controllers, and the embedded hardware to test them.
 
 ## Pinned projects
