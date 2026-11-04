@@ -13,6 +13,6 @@ I'm building estimation and control for energy systems: battery state estimation
 ## AI use
 I work with Claude as a pair programmer. Each repo says what I wrote and what Claude wrote.
 
-Contact: troy.celdran.eng@gmail.com | ([Linkedin](https://www.linkedin.com/in/troy-celdran-aa614838a/)
+Contact: troy.celdran.eng@gmail.com | [Linkedin](https://www.linkedin.com/in/troy-celdran-aa614838a/)
 
 ) | [X](https://x.com/troyceldran) 
