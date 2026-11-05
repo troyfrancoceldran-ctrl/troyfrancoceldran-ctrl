@@ -9,6 +9,7 @@ I'm building estimation and control for energy systems: battery state estimation
 ## In progress
 - Undergraduate thesis: physics-informed neural network (PINN) for battery SOC/SOH estimation. No results yet.
 - Edge AI quadcopter stack (ESP32 + MAX78000): in development.
+- Data Center Digital Simulation <--- Modeled to real world hardware as possible: in development, repo private for now.
 
 ## AI use
 I work with Claude as a pair programmer. Each repo says what I wrote and what Claude wrote.
